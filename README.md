@@ -22,7 +22,7 @@ all this informations got coded in py.file called krypt_jobs
 ![image](https://user-images.githubusercontent.com/69637182/197305519-6e35fba8-7077-467c-9593-e87c17b445d7.png)
 ![image](https://user-images.githubusercontent.com/69637182/197305550-324a74ef-1fac-4128-959b-99d351cc180d.png)
 ![image](https://user-images.githubusercontent.com/69637182/197305580-fcaffaae-ed6d-4734-a313-f73b6811c40a.png)
-![image](https://user-images.githubusercontent.com/69637182/197305625-2adec8d9-8eee-4155-bbb3-73cff27974b5.png)
-![image](https://user-images.githubusercontent.com/69637182/197305827-2da2c10d-b254-4c9c-909b-d9491db1d9a5.png)
+![image](https://user-images.githubusercontent.com/69637182/197305625-2adec8d9-8eee-4155-bbb3-73cff27974b5.png)![image](https://user-images.githubusercontent.com/69637182/197305827-2da2c10d-b254-4c9c-909b-d9491db1d9a5.png)
+
 
 ![streamit2](https://user-images.githubusercontent.com/69637182/197306130-95402950-e66d-4757-81b9-0e709e1c511c.png)
