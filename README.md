@@ -11,7 +11,7 @@ To allow a new hirees experience Ethereum blockchain theory with cryptocurrency 
 create .env to save our sercret phrase 
 then create an instance Account has mnemonic, private and public key
 create ether balance, send transaction then sign it.
-All this constitute in one py.file called crypto_wallet: basically the crypto we will be able to pay a hired profesionals
+All this constitute in one py.file called crypto_wallet: basically the crypto Account we will be able to pay a hired profesionals
 
 ## Imports streamlit and Web3 to display Front_end Ethereum Account, Balance
 ![image](https://user-images.githubusercontent.com/69637182/197305264-2ef5755b-4476-4cf4-9882-5d680f103b5b.png)
