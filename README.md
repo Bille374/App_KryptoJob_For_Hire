@@ -1,6 +1,6 @@
 # App_KryptoJob_For_Hire:
 
-This app consist a finding Professionals candidates for CryptoJobs, get them Hired then pay them.
+This app consists about finding Professionals candidates for CryptoJobs, get them Hired then pay them.
 As a fintech startup and devoloper, I am making a combination betweeen regular Apps  and Apps run on Web3 layer,
 To allow a new hirees experience Ethereum blockchain theory with cryptocurrency payment.
 
@@ -11,7 +11,7 @@ To allow a new hirees experience Ethereum blockchain theory with cryptocurrency 
 create .env to save our sercret phrase 
 then create an instance Account has mnemonic, private and public key
 create ether balance, send transaction then sign it.
-All this constitute in one py.file called crypto_wallet: basically the crypto Account we will be able to pay a hired profesionals
+All this constitutes in one py.file called crypto_wallet: basically the crypto Account we will be able to pay a hired profesionals
 
 ## Imports streamlit and Web3 to display Front_end Ethereum Account, Balance
 ![image](https://user-images.githubusercontent.com/69637182/197305264-2ef5755b-4476-4cf4-9882-5d680f103b5b.png)
